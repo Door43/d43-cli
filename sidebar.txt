@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cli:home|Door43 (cli)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cli|d43-cli repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cli/archive/master.zip|d43-cli.zip]]
+
+**Recent Changes**
+{{changes>ns = cli}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cli|Ethnologue data]]
+
